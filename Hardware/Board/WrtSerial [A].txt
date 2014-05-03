@@ -9,7 +9,7 @@ N   Part name                        RefDes   DigiKey
 1x  C 4.7uF /16V X5R (0805)          C8       1276-1065-1-ND
 3x  DS LED (0805)                    DS1-DS3  475-1415-1-ND
 1x  D BAT54C                         D1       BAT54C-FDICT-ND
-1x  D BAT54A                         D2       BAT54C-FDICT-ND
+1x  D BAT54A                         D2       BAT54A-FDICT-ND
 1x  J USB micro B                    J1       609-4616-1-ND
 1x  J Header, female, 4w             J2       S5440-ND
 1x  L Ferrite 40Ohm (0805)           L1       445-2201-1-ND
