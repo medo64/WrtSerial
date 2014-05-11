@@ -20,3 +20,6 @@ N   Part name                        RefDes   DigiKey
 1x  U FT232RL (SSOP-28)              U1       768-1007-1-ND
 1x  U Si8621 (SOIC-8)                U2       336-2066-5-ND
 1x  U 74HC4066D,653 (TSSOP-14)       U3       568-1462-1-ND
+
+(optional)
+ 8  TP Test pad 0805                          A106144CT-ND
