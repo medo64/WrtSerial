@@ -1,5 +1,4 @@
-WrtSerial
-=========
+### WrtSerial ###
 
 Simple serial adapter for most of WRT-capable router boards. Following pinouts
 are supported:
